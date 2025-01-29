@@ -1,9 +1,12 @@
 {
+  "homepage": "http://devik-nangia.github.io/devik-nangia-portfolio/",
   "name": "my-portfolio",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "vite build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
@@ -32,6 +35,7 @@
     "@vitejs/plugin-react": "^3.1.0",
     "eslint": "^8.36.0",
     "eslint-plugin-react": "^7.32.2",
+    "gh-pages": "^6.3.0",
     "rollup-plugin-visualizer": "^5.11.0",
     "typescript": "^4.9.3",
     "vite": "^4.2.0"
