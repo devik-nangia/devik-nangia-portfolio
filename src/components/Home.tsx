@@ -86,8 +86,8 @@ const Home = ({ secHeight, navID }: CommonProps) => {
               }}
             >
               <Image
-                alt="Nilkanth Patadiya"
-                src="/profile-pic.png"
+                alt="Devik Nangia"
+                src="./profile-pic.png"
                 style={{
                   width: "100%",
                   height: "100%",
