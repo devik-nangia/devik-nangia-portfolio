@@ -81,4 +81,4 @@ Make sure you have installed all of the following prerequisites on your machine:
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Nilkanth-Patadiya](https://github.com/Nilkanth-Patadiya) - Idea & Implementation
+- Devik Nangja - Idea & Implementation
