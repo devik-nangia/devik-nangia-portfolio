@@ -65,7 +65,7 @@ export const experience = (
 export const aboutData: About = {
   education: {
     title: "B.tech in Computer Science Engineering, with Artificial Intelligence & Machine Learning",
-    grade: "9.0 CGPA",
+    grade: "8.76 CGPA",
     subtitle: "From Manipal Institute of Technology, Manipal",
   },
   school: {
